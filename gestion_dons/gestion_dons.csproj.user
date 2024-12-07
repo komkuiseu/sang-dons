@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="PL\AjouterModifierBesoin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\AjoutModifierDons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\AjoutModifierUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\Connexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\USR_LIST_BESOIN.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PL\USR_LIST_Dons.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PL\USR_List_Utilisateur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PL\USR_STOCK_SANG.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
